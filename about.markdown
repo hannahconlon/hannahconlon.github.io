@@ -9,7 +9,7 @@ permalink: /about/
 
 Produced prototype mobile application that would to be used as part of body of research and as basis for application to be used in clinical trial into a new peer support system in cardiovascular disease rehabilitation.
 
-Created and hosted a webpage using GitHub Pages to showcase the theory behind the project, as well as tutorial videos I created on how to use the prototype. The webpage can be viewed here: https://eguardianangel.github.io/
+Created and hosted a webpage using GitHub Pages to showcase the theory behind the project, as well as tutorial videos I created on how to use the prototype. The webpage can be viewed [here](https://eguardianangel.github.io/).
 
 ## Academic Tutor | The University of Sydney | February 2021– Current
 
