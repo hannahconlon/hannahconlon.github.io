@@ -46,7 +46,7 @@ Responsible for direct customer communication, as well as accounting point of sa
 
 Implementing multiple algorithm searches, including Iterative Depth Search, A* Algorithm, Greedy, Hill-Climbing, BFS and DFS to find shortest path between two three-digit numbers, by only incrementing one-digit of the number at each stage.
 
-Implemented restrictions such as not allowing same digit could to be changed twice in a row and having some digit combinations considered forbidden.
+Implemented restrictions such as not allowing same digit to be changed twice in a row and having some digit combinations considered forbidden.
 
 ### Stickman Video Game | August 2019 – November 2019
 
