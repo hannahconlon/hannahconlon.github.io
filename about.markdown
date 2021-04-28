@@ -42,7 +42,7 @@ Responsible for direct customer communication, as well as accounting point of sa
 
 ## Projects
 
-### Shortest Path Algorithm Searches | March 2021 – Current
+### Shortest Path Algorithm Searches | March 2021
 
 Implementing multiple algorithm searches, including Iterative Depth Search, A* Algorithm, Greedy, Hill-Climbing, BFS and DFS to find shortest path between two three-digit numbers, by only incrementing one-digit of the number at each stage.
 
